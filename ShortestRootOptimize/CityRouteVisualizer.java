@@ -299,7 +299,7 @@ public class CityRouteVisualizer extends JFrame {
         addCity("Ahmedabad", 140, 520);
         addCity("Gandhinagar", 260, 340);
         addCity("Himatnagar", 380, 300);
-        addCity("Vijapur", 500, 340);
+        addCity("Vijapur", 500, 340);  
         addCity("Visnagar", 620, 340);
         addCity("Mahesana", 740, 550);
         addCity("Kalol", 620, 450);
